@@ -28,3 +28,23 @@ El programa bancario original concentra todas sus responsabilidades en la clase 
 Se propone aplicar arquitectura limpia para separar el dominio, la aplicación, los contratos de persistencia, la infraestructura y la presentación.
 
 Para que cada componente tenga una responsabilidad específica y los cambios en tecnologías externas no afectarán directamente las reglas bancarias.
+
+Captura de pruebas:
+
+Prueba 1:
+![img.png](img.png)
+
+Prueba 2:
+![img_1.png](img_1.png)
+
+Prueba 3:
+![img_2.png](img_2.png)
+
+Prueba 4:
+![img_3.png](img_3.png)
+
+Prueba 5:
+![img_4.png](img_4.png)
+
+Prueba 6:
+![img_5.png](img_5.png)
