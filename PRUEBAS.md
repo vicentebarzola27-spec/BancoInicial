@@ -2,38 +2,38 @@ PRUEBAS FUNCIONALES
 
 ## Casos de prueba
 
-### P01. Registrar una cuenta
+### P01. Registrar a Ana con S/ 1000
 
 **Objetivo:** verificar que el sistema permita registrar una cuenta bancaria correctamente.
+![img_8.png](img_8.png)
 
-![img.png](img.png)
 
-### P02. Impedir el registro de una segunda cuenta
+### P02. Depositar S/ 200
 
 **Objetivo:** comprobar que el sistema no permita reemplazar una cuenta que ya se encuentra registrada.
-![img_1.png](img_1.png)
+![img_9.png](img_9.png)
 
-### P03. Realizar un depósito
+### P03. Retirar S/ 150
 
 **Objetivo:** verificar que se pueda incrementar el saldo de la cuenta mediante un depósito válido.
-![img_2.png](img_2.png)
-### P04. Rechazar un depósito inválido
+![img_10.png](img_10.png)
+### P04. Retirar S/ 2000
 
 **Objetivo:** comprobar que el sistema no permita realizar depósitos con cantidades negativas.
+![img_11.png](img_11.png)
 
-![img_3.png](img_3.png)
-### P05. Realizar un retiro válido
+### P05. Depositar S/ -10
 
 **Objetivo:** comprobar que el sistema permita retirar dinero cuando existe saldo suficiente.
-![img_4.png](img_4.png)
+![img_12.png](img_12.png)
 
-### P06. Rechazar un retiro superior al saldo disponible
+### P06. Registrar nueva cuenta sin reiniciar
 
 **Objetivo:** comprobar que el sistema impida retirar una cantidad superior al saldo de la cuenta.
-![img_5.png](img_5.png)
+![img_7.png](img_7.png)
 
 
-### P07. Consultar el saldo
+### P07. Salir y abrir nuevamente
 
 **Objetivo:** verificar que el sistema muestre correctamente el saldo actualizado de la cuenta.
 
